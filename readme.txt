@@ -1,7 +1,7 @@
 ﻿=== Facebook Post Embed ===
 Contributors: Alobaidi
 Donate link: http://j.mp/WPTime_donations
-Tags: facebook, facebook embed, facebook post, responsive, embed, embedding, custom, customizer, customize, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
+Tags: facebook, facebook embed, facebook post, facebook posts, responsive, embed, embedding, custom, customizer, customize, image, images, shortcode, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments
 Requires at least: 4.0
 Tested up to: 4.2.4
 Stable tag: 1.0.0
@@ -18,7 +18,7 @@ One shortcode to embedding facebook posts easily, responsive and custom margin b
 
 ### The Features
 
-* One shortcode only [(see installation)](https://wordpress.org/plugins/facebook-post/installation/).
+* One shortcode only [(see installation)](https://wordpress.org/plugins/fb-post/installation/).
 * Responsive.
 * Custom margin bottom.
 
